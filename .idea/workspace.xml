@@ -4,41 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c1d36e-0a57-4157-ab88-e02480f82206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/CamundaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/CheckWeatherDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/CreateUsersAndGroupsApplicationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/FileVariableServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/LoggerDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/LoggerTaskListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/camunda/silmple/demo/ProcessConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/processes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/camunda-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/process.bpmn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/start-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form-date-changer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form-date-picker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form-pdf-upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form-pdf-viewer-multiple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form-pdf-viewer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/forms/task-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weatherDemo.bpmn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/camunda/silmple/demo/InMemoryH2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/camunda/silmple/demo/ProcessScenarioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/camunda/silmple/demo/ProcessTestCoverageProcessEnginePlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/camunda/silmple/demo/ProcessUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/camunda.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logging.properties" afterDir="false" />
+    <list default="true" id="66c1d36e-0a57-4157-ab88-e02480f82206" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/complexProcess.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/JavaWeb/IdeaProjects/SilmpleDemo/src/main/resources",
+    "settings.editor.selected.configurable": "org.jetbrains.idea.maven.wizards.archetype.MavenCatalogsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -121,8 +90,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658633378753</updated>
       <workItem from="1658633380796" duration="824000" />
-      <workItem from="1658634233398" duration="2426000" />
+      <workItem from="1658634233398" duration="7119000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1658636828859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658636828859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
