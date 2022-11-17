@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c1d36e-0a57-4157-ab88-e02480f82206" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/complexProcess.bpmn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66c1d36e-0a57-4157-ab88-e02480f82206" name="Changes" comment="change file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/JavaWeb/IdeaProjects/SilmpleDemo/src/main/resources",
+    "last_opened_file_path": "/Users/eorion/IdeaProjects/SilmpleDemo",
     "settings.editor.selected.configurable": "org.jetbrains.idea.maven.wizards.archetype.MavenCatalogsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +46,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JavaWeb\IdeaProjects\SilmpleDemo\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/doc/images" />
+      <recent name="$PROJECT_DIR$/src/doc" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.CamundaApplication">
@@ -91,6 +92,7 @@
       <updated>1658633378753</updated>
       <workItem from="1658633380796" duration="824000" />
       <workItem from="1658634233398" duration="7119000" />
+      <workItem from="1668673680449" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1658636828859</created>
@@ -99,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658636828859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change file">
+      <created>1668673824254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668673824254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="change file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file" />
   </component>
 </project>
